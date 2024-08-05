@@ -10,3 +10,4 @@ langchain
 Chroma
 ollama
 langchain_groq
+chromadb
