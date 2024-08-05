@@ -10,5 +10,5 @@ langchain
 Chroma
 ollama
 langchain_groq
-chromadb = "0.3.29"
+chromadb 
 pysqlite3-binary
