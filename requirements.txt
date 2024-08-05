@@ -5,7 +5,7 @@ streamlit==1.17.0
 python-pptx==0.6.21
 python-docx==0.8.11
 Pillow==9.2.0
-langchain-community==0.1.0
-langchain==0.1.0
-Chroma==0.1.0
-ollama==0.1.0
+langchain-community==0.2.11
+langchain==0.2.11
+Chroma==0.2.0
+ollama==0.2.0
