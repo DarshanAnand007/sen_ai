@@ -19,7 +19,7 @@ st.set_page_config(page_icon="📄", layout="wide", page_title="PDF Conversation
 
 # Access the API key from Streamlit secrets
 try:
-    groq_api_key = st.secrets["api_key"]
+    groq_api_key = st.secrets["groq"]["api_key"]
 except KeyError:
     st.error("API key for GROQ is missing. Please check your secrets configuration.")
     st.stop()
